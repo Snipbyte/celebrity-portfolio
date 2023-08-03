@@ -1,0 +1,38 @@
+
+
+  *
+  {
+    color: rgb(255, 255, 255,0.8);
+
+  }
+  body
+{
+  background-image:url('https://cdnb.artstation.com/p/assets/images/images/061/267/487/large/dboxx-01-1.jpg?1680381828'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;
+}
+  @media screen and (min-width: 821px) {
+
+   .position{
+    position: absolute !important;
+    margin-top: -5% ;
+    width: 350px !important;
+  }
+  .width, .right
+  {
+    width: 75% !important;
+    text-align: left !important;
+  }
+  .width
+  {
+    margin-top: 13% !important;
+  }
+  .left
+  {
+    width: 50% !important;
+  }
+  .heading
+  {
+   color:#34d399 ;font-size: 70px; font-weight: 900;
+ }
+
+}
+
